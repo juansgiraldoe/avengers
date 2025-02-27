@@ -1,3 +1,4 @@
 ## Misiones
 
-Investiga los planes de destrucción.
+* Investiga los planes de destrucción.
+* Capturar a Red Skull.
